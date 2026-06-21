@@ -128,7 +128,7 @@ Render
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurav152003&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurav152003&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav152003&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
@@ -136,7 +136,7 @@ Render
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav152003&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -144,20 +144,38 @@ Render
   <img src="https://github-profile-trophy.vercel.app/?username=gaurav152003&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
----
+<br>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav152003&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav152003&theme=github-dark&hide_border=true&area=true" />
 </p>
 
----
+<br>
 
 ## ⚡ Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav152003&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav152003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurav152003&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav152003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurav152003&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<br>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,tailwind,js,html,css,git,github,postman,vscode" />
 </p>
 
 ## 🎯 Current Focus
