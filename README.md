@@ -18,62 +18,6 @@ Discover my projects, technical expertise, development journey, and interactive 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Vybe
-
-An immersive developer portfolio featuring interactive 3D experiences, smooth animations, and modern UI/UX.
-
-**Tech Stack:** React.js • Three.js • Tailwind CSS • Motion
-
-#### Highlights
-
-* Interactive 3D Elements
-* Hover-Based Project Previews
-* Smooth Animations & Transitions
-* Fully Responsive Design
-* Modern UI/UX
-* Optimized Performance
-
-🔗 Live: https://gauravyadavv.vercel.app
-
----
-
-### 💹 Cryptex
-
-A full-stack crypto trading platform designed for secure and seamless digital asset trading.
-
-**Tech Stack:** Spring Boot • React.js • MySQL • JWT • Stripe • Razorpay
-
-#### Highlights
-
-* JWT Authentication & Spring Security
-* Wallet Management System
-* Real-Time Crypto Market Data
-* Interactive Trading Charts
-* Payment Integration
-* Admin & User Dashboards
-
----
-
-### 💬 WebTalk
-
-A real-time chat application built using the MERN stack and Socket.io.
-
-**Tech Stack:** MongoDB • Express.js • React.js • Node.js • Socket.io
-
-#### Highlights
-
-* One-to-One Messaging
-* Group Chats
-* Typing Indicators
-* Real-Time Notifications
-* Responsive Interface
-
----
-
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -81,18 +25,6 @@ A real-time chat application built using the MERN stack and Socket.io.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav152003&layout=compact&theme=github_dark&hide_border=true" />
    <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav152003&theme=github-dark-blue&hide_border=true" />
 </p>
-
-
-
-<br>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav152003&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-<br>
 
 ## ⚡ Profile Summary
 
@@ -119,12 +51,14 @@ A real-time chat application built using the MERN stack and Socket.io.
 </p>
 
 ## 🎯 Current Focus
+## 🎯 Current Focus
 
-* Building production-ready full-stack applications
-* Deepening expertise in Spring Boot and backend architecture
-* Learning AI/ML and practical applications
-* Exploring System Design concepts
-* Contributing to impactful projects
+```txt
+Backend Engineering      ███████████░░░░░ 75%
+Spring Boot             ████████████░░░░ 80%
+AWS Cloud               ███████░░░░░░░░░ 45%
+AI / Machine Learning   ██████░░░░░░░░░░ 40%
+System Design           ███████░░░░░░░░░ 50%
 
 ---
 
