@@ -1,93 +1,64 @@
-<div align="center">
-
-# Hi 👋, I'm Gaurav Yadav
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-* 🎓 B.Sc Computer Science Graduate
-* 💻 Full Stack Developer
-* 🚀 Building modern web applications with Java & React
-* 🌱 Currently learning AI/ML and System Design
-* ⚡ Love solving real-world problems with code
-
----
-
-### 🛠️ Tech Stack
+<h1 align="center">Gaurav Yadav</h1>
 
 <p align="center">
+Full Stack Developer • Java • Spring Boot • React
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,postman,vscode" />
-
+<p align="center">
+Building scalable web applications and exploring AI-powered solutions.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+```java
+public class AboutMe {
 
-<p align="center">
+    String name = "Gaurav Yadav";
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+    String[] stack = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "MySQL"
+    };
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+    String currentFocus =
+        "Full Stack Development & AI";
 
-</p>
+    String status =
+        "Building projects, solving problems, learning every day";
+}
+```
 
----
+## Selected Work
 
-### 🔥 GitHub Streak
+🚀 Cryptex
+Crypto Trading Platform with JWT Authentication, Wallet System, Stripe/Razorpay Integration and Real-Time Market Data.
 
-<p align="center">
+💬 WebTalk
+Real-Time Chat Application using MERN Stack and Socket.io.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 💹 Cryptex
-
-Full Stack Crypto Trading Platform built using Spring Boot, React, MySQL, JWT Authentication, Stripe & Razorpay.
-
-#### 💬 WebTalk
-
-Real-Time MERN Chat Application using Socket.io.
-
-#### 📚 Bookify
-
-Responsive React Book Store with User Cart Management.
+📚 Bookify
+Modern React-based Book Store with responsive UI and user-specific cart management.
 
 ---
 
-### 🌐 Connect With Me
+## Tech
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="YOUR_PORTFOLIO">Portfolio</a>
-
-</p>
+Java • Spring Boot • React • Node.js • Express.js • MongoDB • MySQL • Tailwind CSS • Git • Docker
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-### ⚡ "Code. Learn. Build. Repeat."
+[stats cards here]
 
-</div>
+---
+
+> First make it work.
+>
+> Then make it right.
+>
+> Then make it fast.
