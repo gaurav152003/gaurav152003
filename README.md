@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Gaurav Yadav 👋</h1>
-
 <h3 align="center">
 Full Stack Developer | MERN Stack & Spring Boot
 </h3>
