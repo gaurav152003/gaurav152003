@@ -138,6 +138,28 @@ Render
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav152003&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav152003&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav152003&theme=github_dark" />
+</p>
+
 ## 🎯 Current Focus
 
 * Building production-ready full-stack applications
