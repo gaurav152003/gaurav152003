@@ -50,16 +50,13 @@ A real-time chat application supporting one-to-one messaging, group conversation
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav152003&theme=github_dark" />
 </p>
 
-## 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,tailwind,js,html,css,git,github,postman,vscode" />
 </p>
 
-## 🎯 Current Focus
+### Current Focus
 
 Full Stack Development • AWS Cloud • AI-Powered Tools • System Design
 
-<p align="center">
-Building products, solving problems, and continuously learning.
-</p>
