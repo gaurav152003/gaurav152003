@@ -29,8 +29,7 @@ Full Stack Developer
 <br>
 <h2 align="center">Featured Projects</h2>
 
-<h3>Vybe</h3>
-
+<h3>⬤ Vybe</h3>
 <p>
 A full-stack social media platform inspired by modern social networking applications, enabling users to connect, share content, and engage through a clean and interactive experience.
 </p>
@@ -40,7 +39,7 @@ A full-stack social media platform inspired by modern social networking applicat
 </h5>
 
 </br>
-<h3>Cryptex</h3>
+<h3>⬤ Cryptex</h3>
 <p>
 A full-stack crypto trading platform featuring secure authentication, wallet management, payment integration, and real-time market analytics.
 </p>
@@ -54,7 +53,7 @@ A full-stack crypto trading platform featuring secure authentication, wallet man
 
 <br>
 
-<h3> WebTalk</h3>
+<h3>⬤ WebTalk</h3>
 <p>
 A real-time chat application supporting one-to-one messaging, group conversations, typing indicators, and instant notifications.
 </p>
