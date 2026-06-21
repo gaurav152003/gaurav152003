@@ -1,10 +1,12 @@
-<h1 align="center">Hey, I'm Gaurav Yadav 👋</h1>
+<h1 align="center">HEY, I'M GAURAV YADAV</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack & Spring Boot</h3>
+<!-- <h3 align="center">
+Full Stack Developer
+</h3> -->
 
-<p align="center">
-Building scalable applications, immersive web experiences, and products that solve real-world problems.
-</p>
+<h5 align="center">
+<strong>Full Stack Developer</strong> passionate about building scalable applications, modern web experiences, and real-world solutions. Experienced with Java, Spring Boot, React.js, Node.js, MongoDB, and MySQL. Currently exploring AWS Cloud, AI-powered tools, and System Design.
+</h5>
 
 <p align="center">
   <a href="https://gauravyadavv.vercel.app">
@@ -18,24 +20,55 @@ Building scalable applications, immersive web experiences, and products that sol
   </a>
 </p>
 
-## 🚀 Featured Projects
+<br>
+<h2 align="center">Tech Stack</h2>
 
-### 🌐 Vybe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,tailwind,js,html,css,git,github,postman,vscode" />
+</p>
+<br>
+<h2 align="center">Featured Projects</h2>
+
+<h3>Vybe</h3>
+
+<p>
 A full-stack social media platform inspired by modern social networking applications, enabling users to connect, share content, and engage through a clean and interactive experience.
+</p>
+<b>Tech:</b> React.js • Node.js • Express.js • MongoDB
+<h5>
+<a href="https://github.com/gaurav152003/Vybe">Repository ↗</a>
+</h5>
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
-### 💹 Cryptex
+</br>
+<h3>Cryptex</h3>
+<p>
 A full-stack crypto trading platform featuring secure authentication, wallet management, payment integration, and real-time market analytics.
+</p>
+<b>Tech:</b> Spring Boot • React.js • MySQL • JWT • Stripe • Razorpay
+<h5>
+<a href="https://github.com/gaurav152003/Cryptex-backend">Backend Repository ↗</a>
+</h5>
+<h5>
+<a href="https://github.com/gaurav152003/Cryptex-frontend">Frontend Repository ↗</a>
+</h5>
 
-**Tech:** Spring Boot • React.js • MySQL • JWT • Stripe • Razorpay
+<br>
 
-### 💬 WebTalk
+<h3> WebTalk</h3>
+<p>
 A real-time chat application supporting one-to-one messaging, group conversations, typing indicators, and instant notifications.
+</p>
+<b>Tech:</b> MongoDB • Express.js • React.js • Node.js • Socket.io
+<h5>
+<a href="https://github.com/gaurav152003/webtalk">Repository ↗</a>
+</h5>
+<br>
 
-**Tech:** MongoDB • Express.js • React.js • Node.js • Socket.io
+<h2 align="center">GitHub Analytics</h2>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav152003&theme=github_dark" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurav152003&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
@@ -46,17 +79,15 @@ A real-time chat application supporting one-to-one messaging, group conversation
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav152003&theme=github-dark-blue&hide_border=true" />
 </p>
 
+<br>
+
+
+
+<br>
+
+<h2 align="center">Current Focus</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav152003&theme=github_dark" />
+AWS Cloud • Scalable System Design • AI-Powered Development Tools • Full Stack Application Development
 </p>
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,tailwind,js,html,css,git,github,postman,vscode" />
-</p>
-
-## Current Focus
-
-Full Stack Development • AWS Cloud • AI-Powered Tools • System Design
 
