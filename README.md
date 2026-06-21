@@ -6,6 +6,13 @@
 Building scalable applications, immersive web experiences, and products that solve real-world problems.
 
 ---
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-y15/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurav152003)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gauravyadav49909@gmail.com)
+
+---
 
 ## 🌐 Explore My Portfolio
 
@@ -51,23 +58,10 @@ Discover my projects, technical expertise, development journey, and interactive 
 </p>
 
 ## 🎯 Current Focus
-## 🎯 Current Focus
 
-```txt
-Backend Engineering      ███████████░░░░░ 75%
-Spring Boot             ████████████░░░░ 80%
-AWS Cloud               ███████░░░░░░░░░ 45%
-AI / Machine Learning   ██████░░░░░░░░░░ 40%
-System Design           ███████░░░░░░░░░ 50%
-
+Full Stack Development • AWS Cloud • AI-Powered Tools • System Design
 ---
 
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-y15/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurav152003)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gauravyadav49909@gmail.com)
-
----
 
 Building products, solving problems, and continuously learning.
