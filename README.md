@@ -1,64 +1,56 @@
-<h1 align="center">Gaurav Yadav</h1>
+<div align="center">
 
-<p align="center">
-Full Stack Developer • Java • Spring Boot • React
-</p>
+# Gaurav Yadav
 
-<p align="center">
-Building scalable web applications and exploring AI-powered solutions.
-</p>
-
----
-
-```java
-public class AboutMe {
-
-    String name = "Gaurav Yadav";
-
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "MySQL"
-    };
-
-    String currentFocus =
-        "Full Stack Development & AI";
-
-    String status =
-        "Building projects, solving problems, learning every day";
-}
+```bash
+> Full Stack Developer
+> Java • Spring Boot • React
+> Building products, not tutorials.
 ```
 
-## Selected Work
+</div>
 
-🚀 Cryptex
-Crypto Trading Platform with JWT Authentication, Wallet System, Stripe/Razorpay Integration and Real-Time Market Data.
-
-💬 WebTalk
-Real-Time Chat Application using MERN Stack and Socket.io.
-
-📚 Bookify
-Modern React-based Book Store with responsive UI and user-specific cart management.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Learning+AI+%26+Machine+Learning;Turning+ideas+into+products" />
 
 ---
 
-## Tech
+### /about
 
-Java • Spring Boot • React • Node.js • Express.js • MongoDB • MySQL • Tailwind CSS • Git • Docker
+```yaml
+name: Gaurav Yadav
+role: Full Stack Developer
 
----
+stack:
+  - Java
+  - Spring Boot
+  - React
+  - Node.js
+  - MongoDB
+  - MySQL
 
-## GitHub Stats
+currently:
+  - AI/ML
+  - System Design
+  - Backend Engineering
+```
 
-[stats cards here]
+### /featured-projects
 
----
+```txt
+[ Cryptex ]
+Full Stack Crypto Trading Platform
 
-> First make it work.
->
-> Then make it right.
->
-> Then make it fast.
+[ WebTalk ]
+Real-Time MERN Chat Application
+
+[ Bookify ]
+Modern React Book Store
+```
+
+### /github
+
+███████████████████████░░░░░░░░
+
+Building every day.
+Shipping every week.
+Learning forever.
