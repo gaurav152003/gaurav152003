@@ -72,58 +72,7 @@ A real-time chat application built using the MERN stack and Socket.io.
 
 ---
 
-## 🛠 Tech Stack
 
-### Languages
-
-```txt
-Java
-JavaScript
-SQL
-```
-
-### Frontend
-
-```txt
-React.js
-Redux
-Tailwind CSS
-Three.js
-HTML5
-CSS3
-Bootstrap
-```
-
-### Backend
-
-```txt
-Spring Boot
-Node.js
-Express.js
-REST APIs
-Spring Security
-JWT Authentication
-```
-
-### Database
-
-```txt
-MongoDB
-MySQL
-```
-
-### Tools
-
-```txt
-Git
-GitHub
-Postman
-VS Code
-Vercel
-Render
-```
-
----
 
 ## 📊 GitHub Analytics
 
@@ -134,14 +83,6 @@ Render
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav152003&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav152003" />
 </p>
 
 <br>
