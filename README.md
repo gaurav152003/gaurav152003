@@ -13,29 +13,29 @@ Building scalable applications, immersive web experiences, and products that sol
 
 Discover my projects, technical expertise, development journey, and interactive web experiences.
 
----
-
 ## 🚀 Featured Projects
 
 ### 🌐 Vybe
-Interactive developer portfolio featuring 3D experiences, hover-based project previews, smooth animations, and modern UI/UX.
 
-**Tech:** React.js • Three.js • Tailwind CSS • Motion
+A full-stack social media platform inspired by modern social networking applications, enabling users to connect, share content, and engage through a clean and interactive experience.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+---
 
 ### 💹 Cryptex
-Full-stack crypto trading platform with JWT authentication, wallet management, payment integration, and real-time market analytics.
+
+A full-stack crypto trading platform featuring secure authentication, wallet management, payment integration, and real-time market analytics.
 
 **Tech:** Spring Boot • React.js • MySQL • JWT • Stripe • Razorpay
 
+---
+
 ### 💬 WebTalk
-Real-time chat application with group conversations, typing indicators, and instant messaging powered by Socket.io.
+
+A real-time chat application supporting one-to-one messaging, group conversations, typing indicators, and instant notifications.
 
 **Tech:** MongoDB • Express.js • React.js • Node.js • Socket.io
-
-### 📚 Bookify
-Modern online bookstore with responsive UI, user-specific cart management, and seamless browsing experience.
-
-**Tech:** React.js • Tailwind CSS • JSON Server
 
 ---
 
