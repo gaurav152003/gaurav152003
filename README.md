@@ -1,93 +1,93 @@
-# Hi there 👋, I'm Gaurav Yadav
+<div align="center">
 
-### Full Stack Developer | Java & React Enthusiast
+# Hi 👋, I'm Gaurav Yadav
 
-I'm a B.Sc. Computer Science graduate from Mumbai University with a passion for building scalable web applications and solving real-world problems through technology.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-💻 Skilled in Java, Spring Boot, React.js, JavaScript, Node.js, Express.js, MongoDB, and MySQL.
-
-🚀 I enjoy developing full-stack applications, REST APIs, authentication systems, and modern responsive user interfaces.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### Languages
-
-* Java
-* JavaScript
-* SQL
-
-### Frontend
-
-* React.js
-* Redux
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-* Three.js
-
-### Backend
-
-* Spring Boot
-* Node.js
-* Express.js
-* REST APIs
-* Spring Security
-* JWT Authentication
-
-### Database
-
-* MySQL
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Vercel
-* Render
+* 🎓 B.Sc Computer Science Graduate
+* 💻 Full Stack Developer
+* 🚀 Building modern web applications with Java & React
+* 🌱 Currently learning AI/ML and System Design
+* ⚡ Love solving real-world problems with code
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### Cryptex – Crypto Trading Platform
+<p align="center">
 
-* Full-stack crypto trading platform built using Spring Boot and React.
-* JWT Authentication, Email Verification, 2FA OTP.
-* Wallet Management, Live Market Data, Interactive Charts.
-* Stripe & Razorpay Payment Integration.
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,postman,vscode" />
 
-### WebTalk – MERN Chat Application
-
-* Real-time one-to-one and group chat application.
-* Socket.io based communication.
-* Typing indicators and notification handling.
-
-### Bookify – Online Book Store
-
-* Responsive React application.
-* User-specific cart management using Local Storage.
-* Clean UI built with Tailwind CSS.
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🔥 GitHub Streak
 
-* LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-* Portfolio: YOUR_PORTFOLIO_LINK
-* Email: YOUR_EMAIL
+<p align="center">
 
-⭐ Always open to learning new technologies and collaborating on exciting projects.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 💹 Cryptex
+
+Full Stack Crypto Trading Platform built using Spring Boot, React, MySQL, JWT Authentication, Stripe & Razorpay.
+
+#### 💬 WebTalk
+
+Real-Time MERN Chat Application using Socket.io.
+
+#### 📚 Bookify
+
+Responsive React Book Store with User Cart Management.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="YOUR_PORTFOLIO">Portfolio</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Learn. Build. Repeat."
+
+</div>
