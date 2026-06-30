@@ -27,7 +27,7 @@ Full Stack Developer
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,tailwind,js,html,css,git,github,postman,vscode" />
 </p>
 <br>
-<h2 align="center">Featured Projects</h2>
+<!-- <h2 align="center">Featured Projects</h2>
 
 <h3>⬤ Vybe</h3>
 <p>
@@ -51,16 +51,16 @@ A full-stack crypto trading platform featuring secure authentication, wallet man
 <a href="https://github.com/gaurav152003/Cryptex-frontend">Frontend Repository ↗</a>
 </h5>
 
-<br>
+<br> -->
 
-<h3>⬤ WebTalk</h3>
+<!-- <h3>⬤ WebTalk</h3>
 <p>
 A real-time chat application supporting one-to-one messaging, group conversations, typing indicators, and instant notifications.
 </p>
 <b>Tech:</b> MongoDB • Express.js • React.js • Node.js • Socket.io
 <h5>
 <a href="https://github.com/gaurav152003/webtalk">Repository ↗</a>
-</h5>
+</h5> -->
 <br>
 
 <h2 align="center">GitHub Analytics</h2>
